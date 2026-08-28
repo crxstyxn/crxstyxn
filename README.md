@@ -45,7 +45,13 @@
   </a>
 </div>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
+###
 
 <img data-importer="image" align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBjZDdyemU4bWtxbjFlbW5ieTc2dnpvZDFtZmJ4a3dvYTZvdjhrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqpnczA6AQlcf4Q1A/giphy.gif"  />
 
