@@ -45,22 +45,7 @@
   </a>
 </div>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/crxstyxn/crxstyxn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/crxstyxn/crxstyxn/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crxstyxn/crxstyxn/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 
 <img data-importer="image" align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBjZDdyemU4bWtxbjFlbW5ieTc2dnpvZDFtZmJ4a3dvYTZvdjhrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqpnczA6AQlcf4Q1A/giphy.gif"  />
 
